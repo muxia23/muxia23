@@ -34,6 +34,7 @@
 
 - 🎓 Jinzhe Sun (孙金哲) · Software Engineering @ [Fuzhou University](https://www.fzu.edu.cn/), Class of 2028
 - 📱 Building **Swift apps**, **WeChat Mini Programs** and **AI-powered applications**
+- 🧑‍💻 I am currently a member of the [**SOSD**](https://sosd.fzu.edu.cn/home) development team
 - 💼 Former intern at **Ingenico**
 - 📈 Into investing & prediction markets
 
