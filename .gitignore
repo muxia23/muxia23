@@ -1,0 +1,4 @@
+.superpowers/
+.venv/
+.playwright-mcp/
+docs/
