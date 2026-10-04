@@ -1,28 +1,34 @@
-<div align="center">
-
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <img alt="MUXIA23" src="assets/banner-light.svg" width="680">
 </picture>
+</p>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=A78BFA&center=true&vCenter=true&width=600&lines=Taste%20is%20a%20feature%2C%20not%20a%20luxury.;The%20best%20interface%20is%20the%20one%20you%20don%27t%20notice.;Stay%20curious.%20Keep%20shipping.;Pixels%20matter.">
   <img alt="Taste is a feature, not a luxury." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=8B5CF6&center=true&vCenter=true&width=600&lines=Taste%20is%20a%20feature%2C%20not%20a%20luxury.;The%20best%20interface%20is%20the%20one%20you%20don%27t%20notice.;Stay%20curious.%20Keep%20shipping.;Pixels%20matter.">
 </picture>
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 <img src="https://img.shields.io/badge/Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat Mini Program">
 <img src="https://img.shields.io/badge/AI_Apps-8B5CF6?style=for-the-badge&logo=claude&logoColor=white" alt="AI Apps">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+</p>
 
+<p align="center">
 <a href="mailto:m2xal3u@qq.com"><img src="https://img.shields.io/badge/Email-m2xal3u%40qq.com-FF5722?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
 <a href="https://github.com/muxia23"><img src="https://img.shields.io/badge/GitHub-muxia23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
+<p align="center">
 <img src="assets/divider.svg" width="100%" alt="">
-
-</div>
+</p>
 
 ### 👋 About Me
 
